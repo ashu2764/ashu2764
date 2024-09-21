@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ashu2764
+# 👋 Hi, I’m Ashwani
 
 - 👀 I’m interested in full-stack web development, particularly in backend technologies and microservices architecture.
 - 🌱 I’m currently learning,React.js, advanced Node.js, cloud computing, and DevOps practices.
