@@ -16,7 +16,7 @@
 
 ```typescript
 const ashwani = {
-    role: "Backend-Focused MERN Stack Developer",
+    role: "Backend-Focused MERN Stack Developer"
 
     experience: [
         "REST API Development",
