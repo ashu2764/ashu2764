@@ -1,87 +1,138 @@
-# 👋 Hey, I'm Ashwani Kumar
+# 👨‍💻 Ashwani Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend-Focused+MERN+Stack+Developer;Node.js+%7C+TypeScript+%7C+Express.js;Building+Scalable+REST+APIs;Microservices+%7C+Docker+%7C+Cloud;Turning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:00F7FF&height=220&section=header&text=ASHWANI%20KUMAR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Focused%20MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashu2764&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ashu2764?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/ashu2764?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend-Focused+MERN+Stack+Developer;Node.js+%7C+TypeScript+%7C+Express.js;REST+APIs+%7C+Microservices+%7C+System+Design;MongoDB+%7C+PostgreSQL+%7C+Elasticsearch;Docker+%7C+CI%2FCD+%7C+Cloud;Building+Scalable+%26+Production-Ready+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashu2764">
+    <img src="https://img.shields.io/badge/GitHub-ashu2764-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/er-ashwani-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwani%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:er.ashwani.kumar.2764@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashu2764&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧠 Who Am I?
 
 ```typescript
-const ashwani = {
-    role: "Backend-Focused MERN Stack Developer"
+class Developer {
 
-    experience: [
-        "REST API Development",
-        "Backend Architecture",
-        "Database Optimization",
-        "Authentication & Authorization",
-        "Microservices"
-    ],
+    name = "Ashwani Kumar";
 
-    currentlyLearning: [
-        "Advanced Node.js",
+    role = "Backend-Focused MERN Stack Developer";
+
+    location = "India";
+
+    experience = {
+        backend: true,
+        frontend: true,
+        databases: true,
+        cloud: true,
+        devops: true
+    };
+
+    primaryStack = [
+        "Node.js",
         "TypeScript",
+        "Express.js",
+        "MongoDB",
+        "PostgreSQL"
+    ];
+
+    architecture = [
+        "REST APIs",
+        "Microservices",
+        "RBAC",
+        "Event-Driven Systems",
+        "Scalable Backend Architecture"
+    ];
+
+    currentlyLearning = [
+        "Advanced Node.js",
+        "System Design",
         "Microservices",
         "Docker",
         "CI/CD",
-        "Cloud & DevOps"
-    ],
+        "Cloud Architecture"
+    ];
 
-    interests: [
-        "Scalable Backend Systems",
-        "API Security",
-        "Distributed Systems",
-        "Real-Time Applications",
-        "Developer Productivity"
-    ],
-
-    goal: "Build reliable, scalable and production-ready software."
-};
+    mindset = "Build → Measure → Optimize → Scale";
+}
 ```
 
-> 💡 I enjoy solving complex backend problems, optimizing APIs, designing scalable architectures, and turning ideas into reliable production systems.
+> 🚀 I build backend systems that are **secure, scalable, maintainable, and production-ready**.
+
+I enjoy working close to the backend — designing APIs, optimizing databases, implementing authentication systems, integrating external services, and turning complex requirements into clean software architecture.
 
 ---
 
-## ⚡ What I Do
+# ⚡ Engineering Focus
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🔥 Backend Engineering
+### 🧩
 
-* RESTful API development
-* Node.js & Express.js
-* TypeScript backend systems
-* JWT authentication
-* RBAC authorization
-* API security
-* Database optimization
-* Microservices
+**Backend**
+
+Node.js
+Express.js
+TypeScript
+REST APIs
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 🚀 Full-Stack Development
+### 🗄️
 
-* React.js
-* Vite
-* Tailwind CSS
-* Axios
-* MongoDB
-* PostgreSQL
-* MySQL
-* Real-time applications
+**Data**
+
+MongoDB
+PostgreSQL
+MySQL
+Elasticsearch
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+**Security**
+
+JWT
+RBAC
+Authentication
+Authorization
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Infrastructure**
+
+Docker
+CI/CD
+Linux
+Cloud
 
 </td>
 </tr>
@@ -89,208 +140,231 @@ const ashwani = {
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🛠️ Technology Arsenal
 
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
-</p>
-
-### ⚙️ Backend
+## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
 </p>
 
-**REST APIs · JWT · RBAC · Microservices · Socket.IO**
-
-### 🎨 Frontend
+## ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,axios" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+`REST APIs` · `JWT` · `RBAC` · `Microservices` · `Socket.IO`
+
+## 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### ☁️ DevOps & Tools
+`React.js` · `Vite` · `Tailwind CSS` · `Axios`
+
+## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,elasticsearch" />
 </p>
 
-### 🤖 APIs & Cloud Services
+## 🐳 DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=googlecloud" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman" />
 </p>
 
-**Google Gemini API · Cloudinary · OpenWeatherMap API**
+## ☁️ APIs & Services
+
+`Google Gemini API` · `Cloudinary` · `OpenWeatherMap API`
 
 ---
 
-# 💼 Experience
+# 🏗️ How I Think About Backend Systems
+
+```text
+                         ┌───────────────────┐
+                         │      CLIENT       │
+                         │ Web / Mobile App  │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │    API GATEWAY    │
+                         │ Rate Limit / Auth │
+                         └─────────┬─────────┘
+                                   │
+                    ┌──────────────┼──────────────┐
+                    │              │              │
+                    ▼              ▼              ▼
+             ┌────────────┐ ┌────────────┐ ┌────────────┐
+             │   Auth     │ │   Users    │ │  Products  │
+             │  Service   │ │  Service   │ │  Service   │
+             └─────┬──────┘ └─────┬──────┘ └─────┬──────┘
+                   │              │              │
+                   └──────────────┼──────────────┘
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+                    ▼                           ▼
+             ┌──────────────┐           ┌──────────────┐
+             │   Database   │           │    Cache     │
+             │ Mongo / SQL  │           │    Redis     │
+             └──────────────┘           └──────────────┘
+```
+
+### 🔑 Principles
+
+```text
+01 → Security First
+02 → Clean Architecture
+03 → Separation of Concerns
+04 → Database Optimization
+05 → Scalable APIs
+06 → Observability
+07 → Automated Deployment
+08 → Maintainable Code
+```
+
+---
+
+# 💼 Professional Experience
 
 ## 🚀 Jr. Software Developer Intern
 
-**Dynamatix — Hyderabad**
-`Mar 2025 – Aug 2025`
+### Dynamatix — Hyderabad
+
+`March 2025 → August 2025`
 
 ```text
 ▸ Developed scalable backend services using Node.js & TypeScript
 ▸ Built 15+ production-grade REST APIs
-▸ Optimized database queries and API response times
-▸ Implemented JWT authentication & RBAC
-▸ Created API documentation using Swagger & JSDoc
-▸ Worked in an Agile development environment
+▸ Improved API performance through query optimization
+▸ Implemented JWT authentication and RBAC
+▸ Created API documentation using Swagger and JSDoc
+▸ Worked within an Agile development environment
 ```
+
+### Key Focus
+
+`Node.js` · `TypeScript` · `REST APIs` · `Authentication` · `Database Optimization`
+
+---
 
 ## 💻 Web Development Intern
 
-**Omninos Solutions — Mohali**
-`Feb 2023 – Aug 2023`
+### Omninos Solutions — Mohali
+
+`February 2023 → August 2023`
 
 ```text
 ▸ Developed dynamic web applications using Node.js
-▸ Optimized MongoDB and SQL queries
-▸ Fixed production bugs and improved reliability
-▸ Collaborated with cross-functional development teams
+▸ Worked with MongoDB and SQL databases
+▸ Optimized database queries
+▸ Fixed production issues and application bugs
+▸ Collaborated with development teams
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🛒 Tonar — E-Commerce Backend
 
-## 🛒 Tonar E-Commerce API
+> Production-oriented REST API for an e-commerce platform.
 
-Production-ready e-commerce backend.
+### Architecture
 
-**Highlights**
+```text
+Client
+  │
+  ▼
+Express API
+  │
+  ├── Authentication
+  ├── Authorization
+  ├── Users
+  ├── Products
+  ├── Cart
+  ├── Orders
+  └── Addresses
+       │
+       ▼
+    MongoDB
+```
+
+### Features
 
 * 🔐 JWT Authentication
-* 🛡️ RBAC
+* 🛡️ Role-Based Access Control
 * 📧 OTP Password Recovery
-* ☁️ Cloudinary Upload
-* 🍃 MongoDB
-* 📚 Swagger Documentation
-* ⚡ Optimized APIs
+* ☁️ Cloudinary Image Upload
+* 🛒 Cart Management
+* 📦 Order Management
+* 🗄️ MongoDB Optimization
+* 📚 Swagger API Documentation
+* 🧱 Clean Architecture
 
 **Stack**
 
-`Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Cloudinary`
 
-</td>
+---
 
-<td width="50%">
+## 📧 OneBox — AI Email Aggregator
 
-## 📧 OneBox Email Aggregator
+> AI-powered platform for managing and searching emails.
 
-AI-powered email management platform.
+### Features
 
-**Highlights**
-
-* 🤖 Google Gemini
-* 🔎 Elasticsearch
+* 🤖 Google Gemini integration
+* 🔎 Elasticsearch full-text search
 * 🐘 PostgreSQL
 * 📩 Email aggregation
-* ⚡ Full-text search
-* 🧠 AI-powered functionality
+* 🧠 AI-powered processing
+* ⚡ Fast search experience
 
 **Stack**
 
 `Node.js` `TypeScript` `PostgreSQL` `Elasticsearch` `Gemini`
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+## ✅ Task Manager REST API
 
-## ✅ Task Manager API
+> Secure task management backend built with PostgreSQL.
 
-Scalable task management REST API.
-
-**Highlights**
+### Features
 
 * 🔐 JWT Authentication
 * 🛡️ Role-Based Authorization
 * 🐳 Dockerized
 * 🗄️ PostgreSQL
 * 📦 Sequelize ORM
+* 🔄 RESTful architecture
 
 **Stack**
 
-`Node.js` `PostgreSQL` `Sequelize` `Docker`
-
-</td>
-
-<td width="50%">
-
-## 🌦️ Weather App
-
-Modern weather application.
-
-**Highlights**
-
-* ⚛️ React
-* ⚡ Vite
-* 🎨 Tailwind CSS
-* 🌐 OpenWeatherMap
-* 🔄 Axios
-
-**Stack**
-
-`React` `Vite` `Tailwind` `Axios`
-
-</td>
-</tr>
-</table>
+`Node.js` `PostgreSQL` `Sequelize` `Docker` `JWT`
 
 ---
 
-# 🧠 Backend Architecture
+## 🌦️ Weather Application
 
-```text
-                    ┌─────────────────────┐
-                    │      CLIENT         │
-                    │ React / Mobile App  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      API LAYER      │
-                    │   Express / REST    │
-                    └──────────┬──────────┘
-                               │
-                 ┌─────────────┼─────────────┐
-                 ▼             ▼             ▼
-          ┌────────────┐ ┌────────────┐ ┌────────────┐
-          │    Auth    │ │   Users    │ │  Products  │
-          │  Service   │ │  Service   │ │  Service   │
-          └──────┬─────┘ └──────┬─────┘ └──────┬─────┘
-                 │              │              │
-                 └──────────────┼──────────────┘
-                                ▼
-                       ┌─────────────────┐
-                       │    DATABASE     │
-                       │ MongoDB / SQL   │
-                       └─────────────────┘
-```
+> Modern weather application built with React.
+
+**Stack**
+
+`React` `Vite` `Tailwind CSS` `Axios` `OpenWeatherMap API`
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashu2764&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashu2764&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu2764&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -300,7 +374,20 @@ Modern weather application.
 
 ---
 
-# 🐍 Contribution Activity
+# 📈 Coding Activity
+
+```text
+Backend Development      ████████████████████░  90%
+API Development          ███████████████████░░  85%
+Database Engineering     █████████████████░░░░  80%
+System Design            ███████████████░░░░░░  70%
+DevOps / Cloud            █████████████░░░░░░░░  65%
+Frontend Development     ████████████████░░░░░  75%
+```
+
+---
+
+# 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashu2764/ashu2764/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
@@ -308,121 +395,168 @@ Modern weather application.
 
 ---
 
-# 💻 Developer Mode
+# 🖥️ Developer Terminal
 
 ```bash
-$ whoami
+┌──(ashwani㉿developer)-[~/projects]
+└─$ whoami
 
-ashwani-kumar
+Ashwani Kumar
 
-$ role
+┌──(ashwani㉿developer)-[~/projects]
+└─$ role
 
-backend-focused-mern-developer
+Backend-Focused MERN Stack Developer
 
-$ currently
+┌──(ashwani㉿developer)-[~/projects]
+└─$ stack
 
-building scalable backend systems...
+Node.js
+TypeScript
+Express.js
+MongoDB
+PostgreSQL
+Docker
 
-$ stack
+┌──(ashwani㉿developer)-[~/projects]
+└─$ currently_learning
 
-Node.js + TypeScript + Express.js
-MongoDB + PostgreSQL
-Docker + GitHub Actions
+Microservices
+System Design
+Cloud Architecture
+CI/CD
+Distributed Systems
 
-$ status
+┌──(ashwani㉿developer)-[~/projects]
+└─$ mission
 
-██████████████████████░░ 90%
-
-$ mission
-
-Build → Learn → Improve → Repeat
+Build scalable systems.
+Write clean code.
+Solve hard problems.
+Keep learning.
 ```
 
 ---
 
-# 🔥 Currently Exploring
+# 🧠 Currently Learning
+
+```text
+                    SYSTEM DESIGN
+                         │
+            ┌────────────┼────────────┐
+            ▼            ▼            ▼
+       Microservices   Caching      Queues
+            │            │            │
+            ▼            ▼            ▼
+         Docker       Redis       Messaging
+            │            │            │
+            └────────────┼────────────┘
+                         ▼
+                  CLOUD ARCHITECTURE
+                         │
+                         ▼
+                       CI/CD
+```
+
+### 🎯 2026 Focus
+
+* Advanced Node.js
+* TypeScript architecture
+* System Design
+* Microservices
+* Docker & Containers
+* CI/CD pipelines
+* Cloud architecture
+* Distributed systems
+* Backend performance
+* Scalable databases
+
+---
+
+# 🏆 Developer Philosophy
+
+> **"Don't just make it work. Make it scalable, secure, observable and maintainable."**
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Optimize
+  ↓
+Deploy
+  ↓
+Repeat
+```
+
+---
+
+# 🤝 Open Source & Collaboration
+
+I'm interested in collaborating on projects involving:
 
 ```text
 Node.js
-   │
-   ├── Advanced TypeScript
-   ├── Microservices
-   ├── System Design
-   ├── Docker & Containers
-   ├── CI/CD
-   ├── Cloud Computing
-   ├── Distributed Systems
-   └── Backend Performance
+TypeScript
+Express.js
+React
+MongoDB
+PostgreSQL
+Microservices
+REST APIs
+AI Integrations
+Developer Tools
+Open Source
 ```
+
+If you're building something interesting, feel free to reach out.
 
 ---
 
-# 📈 My Developer Journey
-
-```text
-2023
- │
- ├── Web Development
- │
- ▼
-2024
- │
- ├── MERN Stack
- ├── REST APIs
- └── Database Development
- │
- ▼
-2025
- │
- ├── Production Backend
- ├── TypeScript
- ├── Authentication
- └── API Architecture
- │
- ▼
-2026
- │
- ├── Microservices
- ├── Docker
- ├── Cloud
- ├── DevOps
- └── System Design
-```
-
----
-
-# 🤝 Let's Connect
+# 📫 Let's Connect
 
 <p align="center">
 
 <a href="mailto:er.ashwani.kumar.2764@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="mailto:itsashu268@gmail.com">
+<img src="https://img.shields.io/badge/Alternate_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/er-ashwani-kumar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ashu2764">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# ⭐ Support My Work
+
+If you find my projects useful or interesting:
+
+**⭐ Star a repository · 🍴 Fork it · 🤝 Contribute · 💬 Share feedback**
+
+Every contribution and interaction helps me keep building.
+
+---
+
 <p align="center">
 
-### 🚀 Building Backend Systems.
-
-### ⚡ Breaking Problems Into Solutions.
-
-### 🧠 Learning Something New Every Day.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80;Code.+Learn.+Build.+Repeat." />
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2563EB,100:0F172A&height=120&section=footer"/>
 </p>
-
-⭐ **If you find my projects useful, consider giving them a star!**
