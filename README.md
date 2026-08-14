@@ -363,27 +363,31 @@ Express API
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=ashu2764&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img align="center"
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=ashu2764&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ashu2764&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=ashu2764&show_icons=true&theme=tokyonight&hide_border=true"
+        height="180"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=ashu2764&theme=tokyonight&hide_border=true"
+        height="180"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ashu2764&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+        height="180"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
