@@ -365,12 +365,13 @@ Express API
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ashu2764&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=ashu2764&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Ashu's GitHub Stats"
+    alt="GitHub Stats"
   />
+
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ashu2764&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=ashu2764&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
@@ -378,7 +379,7 @@ Express API
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu2764&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ashu2764&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     height="180"
     alt="Top Languages"
   />
