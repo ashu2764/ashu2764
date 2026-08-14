@@ -370,7 +370,7 @@ Express API
     alt="GitHub Stats"
   />
 
-  <img
+  <img align="center"
     src="https://github-readme-stats-fast.vercel.app/api/streak?username=ashu2764&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
